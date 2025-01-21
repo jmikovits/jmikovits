@@ -1,6 +1,6 @@
 # 👋 Welcome, I'm Jonathan!
 
-## 🚀 Student studying Economics, Data Science, Sustainability, and Korean at the University of Notre Dame.
+## Student studying Economics, Data Science, Sustainability, and Korean at the University of Notre Dame.
 
 📍 **South Bend, Indiana / Spring Arbor, Michigan**  
 📧 **Email:** ([contact@jmikclan@gmail.com](jmikclan@gmail.com)  
