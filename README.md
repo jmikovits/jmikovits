@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Welcome, I'm Jonathan!
 
-<!--
-**jmikovits/jmikovits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Student studying Economics, Data Science, Sustainability, and Korean at the University of Notre Dame.
 
-Here are some ideas to get you started:
+📍 **South Bend, Indiana / Spring Arbor, Michigan**  
+📧 **Email:** ([contact@jmikclan@gmail.com](jmikclan@gmail.com)  
+🔗 **LinkedIn:** [jonathan](https://www.linkedin.com/in/jonathan-mikovits/)  
+👨‍💻 **GitHub:** [jmikovits](https://github.com/jmikovits)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About Me 🌐
+
+
+
+### Professional Highlights 🌟
+
+
+
+### Tech Toolbox 🛠️
+
+
+### Education 🎓
+
+
+### Certifications 📜
+
+
+
