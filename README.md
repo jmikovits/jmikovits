@@ -1,5 +1,5 @@
 ## About Me 👋
-I am a student studying Economics, Data Science, Sustainability, and Korean at the University of Notre Dame. My work in data science consists of coursework and my personal interests in combining economics, data science, and sustainability. 
+I am a student studying Economics, Data Science, Sustainability, and Korean at the University of Notre Dame. My work in data science consists of my coursework in the data science minor and my personal interests in combining economics, data science, and sustainability. 
 ___
 ## Education 🎓
 - **Bachelor of Arts** (In Progress) - University of Notre Dame
