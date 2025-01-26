@@ -28,8 +28,8 @@ ___
 ___
 ## Let's Connect 🌐
 📍 **Spring Arbor, Michigan**  
-📧 **Email:** [(mailto:jmikclan@gmail.com)]  
-🔗 **LinkedIn:** [jonathan](https://www.linkedin.com/in/jonathan-mikovits/)  
+📧 **Email:** [jmikclan](mailto:jmikclan@gmail.com)   
+🔗 **LinkedIn:** [Jonathan](https://www.linkedin.com/in/jonathan-mikovits/)  
 👨‍💻 **GitHub:** [jmikovits](https://github.com/jmikovits)
 
 
