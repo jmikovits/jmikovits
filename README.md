@@ -27,8 +27,8 @@ ___
 
 ___
 ## Let's Connect 🌐
-📍 **South Bend, Indiana / Spring Arbor, Michigan**  
-📧 **Email:** ([contact@jmikclan@gmail.com](jmikclan@gmail.com)  
+📍 **Spring Arbor, Michigan**  
+📧 **Email:** [contact@jmikclan@gmail.com](jmikclan@gmail.com)  
 🔗 **LinkedIn:** [jonathan](https://www.linkedin.com/in/jonathan-mikovits/)  
 👨‍💻 **GitHub:** [jmikovits](https://github.com/jmikovits)
 
