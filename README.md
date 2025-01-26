@@ -15,7 +15,7 @@ ___
 ___
 ## Data Science Projects 🚀
 <details><summary>
-<a href='([https://github.com/jmikovits/Mikovits-Data-Science-Portfolio](https://github.com/jmikovits/Mikovits-Data-Science-Portfolio))'><strong>📈 Data Science Portfolio</strong></a>
+<a href='(https://github.com/jmikovits/Mikovits-Data-Science-Portfolio)'><strong>📈 Data Science Portfolio</strong></a>
 </summary>
 <ul>
   <li>Practicing exploratory data analysis on real-world data
