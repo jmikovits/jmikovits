@@ -23,7 +23,7 @@ ___
   <li>Including work related to machine learning models, LLMs, and model evaluations
   <li>Showcasing Jupyter Notebooks for solving specific data problems
 </ul>
-  
+</details>  
 ___
 ## Let's Connect 🌐
 📍 **South Bend, Indiana / Spring Arbor, Michigan**  
