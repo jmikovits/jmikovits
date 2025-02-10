@@ -32,5 +32,6 @@ ___
 🔗 **LinkedIn:** [Jonathan](https://www.linkedin.com/in/jonathan-mikovits/)  
 👨‍💻 **GitHub:** [jmikovits](https://github.com/jmikovits)
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmikovits&show_icons=true&theme=radical)
 
 
