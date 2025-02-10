@@ -4,6 +4,9 @@ ___
 ## Education 🎓
 - **Bachelor of Arts** (In Progress) - University of Notre Dame
 ___
+## Goals 🎓
+This semester, I want to further my knowledge of using Python libraries and other data analysis software programs to work with, understand, and communicate data. I hope to have one or two tangible, original projects displayed by the end of this semester from my coursework in Data Science and Environmental Data.
+___
 ## Languages and Tools 🛠️
 - **Python**
 - **Stata**
